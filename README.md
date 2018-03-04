@@ -1,10 +1,9 @@
 # Spring Boot + Spring Cloud 实例
 
-## 1. 什么是spring boot
+## spring cloud简介
 
-> Takes an opinionated view of building production-ready Spring applications. Spring Boot favors convention over configuration and is designed to get you up and running as quickly as possible.<br />
-摘自官网<br />
-翻译：采纳了建立生产就绪Spring应用程序的观点。 Spring Boot优先于配置的惯例，旨在让您尽快启动和运行。
+> spring cloud 为开发人员提供了快速构建分布式系统的一些工具，包括配置管理、服务发现、断路器、路由、微代理、事件总线、全局锁、决策竞选、分布式会话等等。它运行环境简单，可以在开发人员的电脑上跑，简称“微服务架构”。
+>另外说明spring cloud是基于springboot的，所以需要开发中对springboot有一定的了解。
 
 项目 | 作用
 ---|---
